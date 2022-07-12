@@ -1,0 +1,44 @@
+G:\C# ADO.NET LS-S2021\Exemples RestoComposants v2\ExerciceRestoComposants\ExerciceRestoComposants\obj\Debug\ExerciceRestoComposants.csprojAssemblyReference.cache
+G:\C# ADO.NET LS-S2021\Exemples RestoComposants v2\ExerciceRestoComposants\ExerciceRestoComposants\obj\Debug\ExerciceRestoComposants.Form1.resources
+G:\C# ADO.NET LS-S2021\Exemples RestoComposants v2\ExerciceRestoComposants\ExerciceRestoComposants\obj\Debug\ExerciceRestoComposants.Form2.resources
+G:\C# ADO.NET LS-S2021\Exemples RestoComposants v2\ExerciceRestoComposants\ExerciceRestoComposants\obj\Debug\ExerciceRestoComposants.Properties.Resources.resources
+G:\C# ADO.NET LS-S2021\Exemples RestoComposants v2\ExerciceRestoComposants\ExerciceRestoComposants\obj\Debug\ExerciceRestoComposants.csproj.GenerateResource.cache
+G:\C# ADO.NET LS-S2021\Exemples RestoComposants v2\ExerciceRestoComposants\ExerciceRestoComposants\obj\Debug\ExerciceRestoComposants.csproj.CoreCompileInputs.cache
+G:\C# ADO.NET LS-S2021\Exemples RestoComposants v2\ExerciceRestoComposants\ExerciceRestoComposants\bin\Debug\ExerciceRestoComposants.exe.config
+G:\C# ADO.NET LS-S2021\Exemples RestoComposants v2\ExerciceRestoComposants\ExerciceRestoComposants\bin\Debug\ExerciceRestoComposants.exe
+G:\C# ADO.NET LS-S2021\Exemples RestoComposants v2\ExerciceRestoComposants\ExerciceRestoComposants\bin\Debug\ExerciceRestoComposants.pdb
+G:\C# ADO.NET LS-S2021\Exemples RestoComposants v2\ExerciceRestoComposants\ExerciceRestoComposants\obj\Debug\ExerciceRestoComposants.exe
+G:\C# ADO.NET LS-S2021\Exemples RestoComposants v2\ExerciceRestoComposants\ExerciceRestoComposants\obj\Debug\ExerciceRestoComposants.pdb
+G:\C# ADO.NET LS-S2021\Exemples RestoComposants v2\ExerciceRestoComposants3c (solution FK)-wLS\ExerciceRestoComposants\bin\Debug\ExerciceRestoComposants.exe.config
+G:\C# ADO.NET LS-S2021\Exemples RestoComposants v2\ExerciceRestoComposants3c (solution FK)-wLS\ExerciceRestoComposants\bin\Debug\ExerciceRestoComposants.exe
+G:\C# ADO.NET LS-S2021\Exemples RestoComposants v2\ExerciceRestoComposants3c (solution FK)-wLS\ExerciceRestoComposants\bin\Debug\ExerciceRestoComposants.pdb
+G:\C# ADO.NET LS-S2021\Exemples RestoComposants v2\ExerciceRestoComposants3c (solution FK)-wLS\ExerciceRestoComposants\obj\Debug\ExerciceRestoComposants.csprojAssemblyReference.cache
+G:\C# ADO.NET LS-S2021\Exemples RestoComposants v2\ExerciceRestoComposants3c (solution FK)-wLS\ExerciceRestoComposants\obj\Debug\ExerciceRestoComposants.Form1.resources
+G:\C# ADO.NET LS-S2021\Exemples RestoComposants v2\ExerciceRestoComposants3c (solution FK)-wLS\ExerciceRestoComposants\obj\Debug\ExerciceRestoComposants.Form2.resources
+G:\C# ADO.NET LS-S2021\Exemples RestoComposants v2\ExerciceRestoComposants3c (solution FK)-wLS\ExerciceRestoComposants\obj\Debug\ExerciceRestoComposants.Properties.Resources.resources
+G:\C# ADO.NET LS-S2021\Exemples RestoComposants v2\ExerciceRestoComposants3c (solution FK)-wLS\ExerciceRestoComposants\obj\Debug\ExerciceRestoComposants.csproj.GenerateResource.cache
+G:\C# ADO.NET LS-S2021\Exemples RestoComposants v2\ExerciceRestoComposants3c (solution FK)-wLS\ExerciceRestoComposants\obj\Debug\ExerciceRestoComposants.csproj.CoreCompileInputs.cache
+G:\C# ADO.NET LS-S2021\Exemples RestoComposants v2\ExerciceRestoComposants3c (solution FK)-wLS\ExerciceRestoComposants\obj\Debug\ExerciceRestoComposants.exe
+G:\C# ADO.NET LS-S2021\Exemples RestoComposants v2\ExerciceRestoComposants3c (solution FK)-wLS\ExerciceRestoComposants\obj\Debug\ExerciceRestoComposants.pdb
+C:\Users\Karina\Desktop\lasalle\tier\project\ExerciceRestoComposants3c (solution FK)-wLS\ExerciceRestoComposants\bin\Debug\ExerciceRestoComposants.exe.config
+C:\Users\Karina\Desktop\lasalle\tier\project\ExerciceRestoComposants3c (solution FK)-wLS\ExerciceRestoComposants\bin\Debug\ExerciceRestoComposants.exe
+C:\Users\Karina\Desktop\lasalle\tier\project\ExerciceRestoComposants3c (solution FK)-wLS\ExerciceRestoComposants\bin\Debug\ExerciceRestoComposants.pdb
+C:\Users\Karina\Desktop\lasalle\tier\project\ExerciceRestoComposants3c (solution FK)-wLS\ExerciceRestoComposants\obj\Debug\ExerciceRestoComposants.Form1.resources
+C:\Users\Karina\Desktop\lasalle\tier\project\ExerciceRestoComposants3c (solution FK)-wLS\ExerciceRestoComposants\obj\Debug\ExerciceRestoComposants.Form2.resources
+C:\Users\Karina\Desktop\lasalle\tier\project\ExerciceRestoComposants3c (solution FK)-wLS\ExerciceRestoComposants\obj\Debug\ExerciceRestoComposants.Properties.Resources.resources
+C:\Users\Karina\Desktop\lasalle\tier\project\ExerciceRestoComposants3c (solution FK)-wLS\ExerciceRestoComposants\obj\Debug\ExerciceRestoComposants.csproj.GenerateResource.cache
+C:\Users\Karina\Desktop\lasalle\tier\project\ExerciceRestoComposants3c (solution FK)-wLS\ExerciceRestoComposants\obj\Debug\ExerciceRestoComposants.csproj.CoreCompileInputs.cache
+C:\Users\Karina\Desktop\lasalle\tier\project\ExerciceRestoComposants3c (solution FK)-wLS\ExerciceRestoComposants\obj\Debug\ExerciceRestoComposants.exe
+C:\Users\Karina\Desktop\lasalle\tier\project\ExerciceRestoComposants3c (solution FK)-wLS\ExerciceRestoComposants\obj\Debug\ExerciceRestoComposants.pdb
+C:\Users\Karina\Desktop\lasalle\tier\ExerciceRestoComposants3c (solution FK)-wLS\ExerciceRestoComposants\bin\Debug\ExerciceRestoComposants.exe.config
+C:\Users\Karina\Desktop\lasalle\tier\ExerciceRestoComposants3c (solution FK)-wLS\ExerciceRestoComposants\bin\Debug\ExerciceRestoComposants.exe
+C:\Users\Karina\Desktop\lasalle\tier\ExerciceRestoComposants3c (solution FK)-wLS\ExerciceRestoComposants\bin\Debug\ExerciceRestoComposants.pdb
+C:\Users\Karina\Desktop\lasalle\tier\ExerciceRestoComposants3c (solution FK)-wLS\ExerciceRestoComposants\obj\Debug\ExerciceRestoComposants.csprojAssemblyReference.cache
+C:\Users\Karina\Desktop\lasalle\tier\ExerciceRestoComposants3c (solution FK)-wLS\ExerciceRestoComposants\obj\Debug\ExerciceRestoComposants.Form1.resources
+C:\Users\Karina\Desktop\lasalle\tier\ExerciceRestoComposants3c (solution FK)-wLS\ExerciceRestoComposants\obj\Debug\ExerciceRestoComposants.Form2.resources
+C:\Users\Karina\Desktop\lasalle\tier\ExerciceRestoComposants3c (solution FK)-wLS\ExerciceRestoComposants\obj\Debug\ExerciceRestoComposants.Properties.Resources.resources
+C:\Users\Karina\Desktop\lasalle\tier\ExerciceRestoComposants3c (solution FK)-wLS\ExerciceRestoComposants\obj\Debug\ExerciceRestoComposants.csproj.GenerateResource.cache
+C:\Users\Karina\Desktop\lasalle\tier\ExerciceRestoComposants3c (solution FK)-wLS\ExerciceRestoComposants\obj\Debug\ExerciceRestoComposants.csproj.CoreCompileInputs.cache
+C:\Users\Karina\Desktop\lasalle\tier\ExerciceRestoComposants3c (solution FK)-wLS\ExerciceRestoComposants\obj\Debug\ExerciceRestoComposants.exe
+C:\Users\Karina\Desktop\lasalle\tier\ExerciceRestoComposants3c (solution FK)-wLS\ExerciceRestoComposants\obj\Debug\ExerciceRestoComposants.pdb
+C:\Users\Karina\Desktop\lasalle\tier\project\ExerciceRestoComposants3c (solution FK)-wLS\ExerciceRestoComposants\obj\Debug\ExerciceRestoComposants.csproj.AssemblyReference.cache
